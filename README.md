@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sunidhi1999-c
+- 👋 Hi, I’m @sunidhi1999-c ,currently working as Intern at AMD ,MTech in Computer Science and Information security at Manipal Institute of Technology.
 - 👀 I’m interested in Software Development ,Working in IT industry and gain knowledge in different fields.
 - 🌱 I’m currently learning ReactJs ,Node.js, Android Development ,and open to explore new technologies. 
 - 💞️ I’m looking to collaborate on App Development ,Data Science ,and I am open to new technologies too
